@@ -14,6 +14,7 @@
   - Product
 - Exportovať low-fidelity prototypy z Miro (prerobiť borrowify na Lendify) (Matej)
 - Exportovať high-fidelity prototypy z Figma (prerobiť farbičky a názov Borrowify na Lendify) (Matej)
+- Vytvoriť video z interaktívne prototypu (Matej)
 - Finančná analýza (jednoduchá - prečo do nás investovať?) (Ivan)
 - Pripraviť finálny dokument resp. readme.MD v repozitári (Adam & Matej)
-- Vytvoriť video pomocou ActivePresenter a postnúť na YT kanál (Ivan)
+- Vytvoriť video pomocou Clipchamp a postnúť na YT kanál (Ivan)
