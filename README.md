@@ -12,7 +12,7 @@
   - Motivation
   - Organization ✅
   - Product ✅
-- Exportovať low-fidelity prototypy z Miro (prerobiť borrowify na Lendify) (Matej)
+- Exportovať low-fidelity prototypy z Miro (Matej) ✅
 - Exportovať high-fidelity prototypy z Figma (prerobiť farbičky a názov Borrowify na Lendify) (Matej)
 - Vytvoriť video z interaktívne prototypu (Matej)
 - Finančná analýza (jednoduchá - prečo do nás investovať?) (Ivan)
