@@ -7,11 +7,11 @@
 - Na základe features a veľkosti aplikácie rozhodnúť aké technológie použiť (robíme webovú/mobilnú aplikáciu/aj aj)? (Adam)
 - Vytvoriť nejaké modely v EA (treba spraviť nejaké screeny ako používame LemonTree) (Matej / Adam)
   - Technology
-  - Business
+  - Business ✅
   - Application
   - Motivation
-  - Organization
-  - Product
+  - Organization ✅
+  - Product ✅
 - Exportovať low-fidelity prototypy z Miro (prerobiť borrowify na Lendify) (Matej)
 - Exportovať high-fidelity prototypy z Figma (prerobiť farbičky a názov Borrowify na Lendify) (Matej)
 - Vytvoriť video z interaktívne prototypu (Matej)
