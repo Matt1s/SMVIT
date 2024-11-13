@@ -3,7 +3,7 @@
 ### Zoznam úloh
 - Vytvoriť repozitár ✅
    - Ideálne každú logickú zmenu trackovať (všetci) ✅
-- Vytvoriť zoznam features aplikácie (Matej)
+- Vytvoriť zoznam features aplikácie (Matej) ✅
 - Na základe features a veľkosti aplikácie rozhodnúť aké technológie použiť (robíme webovú/mobilnú aplikáciu/aj aj)? (Adam)
 - Vytvoriť nejaké modely v EA (treba spraviť nejaké screeny ako používame LemonTree) (Matej / Adam)
   - Technology
