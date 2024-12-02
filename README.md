@@ -19,6 +19,7 @@ Lendify spája komunitu ľudí s podobnými záujmami a vytvára priestor pre je
 ### Komunikačné a prezentačné kanály
 - Youtube kanál: [Skibidi IT RIZZ](https://www.youtube.com/@SKIBIDI_IT_RIZZLERS)
 - Patreon: [Lendify](https://www.patreon.com/c/ShoppingRevolution)
+- Linked In Skibidy IT RIZZ: [Lendify](https://www.linkedin.com/company/skibidi-it-rizz/)
 - Linked In Matej: [Matej Pakán](https://www.linkedin.com/in/matejpakan/)
 - Linked In Adam: [Adam Jankanič](https://www.linkedin.com/in/adam-jankani%C4%8D-46aa61238/)
 - Linked In Ivan: [Ivan Gajdoš](https://www.linkedin.com/in/ivan-gajdos-175902267/)
